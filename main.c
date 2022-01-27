@@ -1,7 +1,5 @@
-/*
- * File:   main.c
- */
-// Author: Trupti Deore
+// File:   main.c
+
 
 #include <xc.h>
 #include "clcd.h"
